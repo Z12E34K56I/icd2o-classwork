@@ -33,4 +33,12 @@ Total=a+b+c+d+e
 print(Total)
 
 10%
-
+1.x=int(input("Please enter the base number X:"))
+y=int(input("Please enter the index Y:"))
+z=x
+while z<=y:
+    result=z**y
+    print(f"{z} to the power of {y} is {result}")
+    z+=1
+2.
+    
