@@ -40,4 +40,3 @@ while z<=y:
     result=z**y
     print(f"{z} to the power of {y} is {result}")
     z+=1
-    
