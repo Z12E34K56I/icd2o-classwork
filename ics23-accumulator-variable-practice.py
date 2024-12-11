@@ -1,21 +1,21 @@
 1.1~10
-count=1
-total=0
-while count<=10:
-    print(count)
-    total+=count
-    count+=1
+x=1
+z=0
+while x<=10:
+    print(x)
+    z+=x
+    x+=1
     
-print(total)
+print(z)
 
 2.100~200
-count=100
-total=0
-while count<=200:
-    print(count)
-    total+=count
-    count+=1
-print(total)
+x=100
+z=0
+while x<=200:
+    print(x)
+   z+=x
+    x+=1
+print(z)
 
 3.(200~300)-(100~200)
 X1=100
